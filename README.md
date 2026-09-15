@@ -1,5 +1,11 @@
 # Retail Sales, Profitability & Business Performance Analysis
 
+An end-to-end retail data analysis project using Excel, MySQL, and Python.
+
+## Dashboard Preview
+
+![Excel Dashboard](Excel_Dashboard.png)
+
 ## Project Overview
 
 This project analyzes retail sales data from 2014 to 2017 to evaluate
